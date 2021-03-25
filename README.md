@@ -1,7 +1,11 @@
 
 #Exploit Title: Joomla Component 'com_properties' File Upload/RCE
+
 Google Dork: NA
+
+
 Exploit Author: Und3r-r00t
+
 Tested on: Centos
 
 PoC  
