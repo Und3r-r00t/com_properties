@@ -9,6 +9,7 @@
 1- register and login
 
   http://localhost/index.php?option=com_user&task=register&Itemid=296
+  
   http://localhost/index.php?option=com_user&view=login
 
 2- Upload File 
