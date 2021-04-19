@@ -22,5 +22,4 @@
 
 
 
-github - Und3r-r00t
 twitter - @p33rl
