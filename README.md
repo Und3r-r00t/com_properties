@@ -11,7 +11,6 @@
 * PoC  
   * register and login
   `http://localhost/index.php?option=com_user&task=register&Itemid=`
-  
   `http://localhost/index.php?option=com_user&view=login`
 
   * Upload File 
@@ -21,7 +20,7 @@
   `http://localhost/images/properties/profiles/rce.php`
 
 
-`----------------------
+----------------------
 github - Und3r-r00t
 twitter - @p33rl
-----------------------`
+----------------------
